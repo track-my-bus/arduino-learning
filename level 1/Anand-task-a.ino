@@ -1,6 +1,10 @@
 void setup() {
   // put your setup code here, to run once:
+  int i = 2;
+  for(i=2;i<=5;i++);{
+    pinMode(i, OUTPUT);
 
+  }
 }
 
 void loop() {
