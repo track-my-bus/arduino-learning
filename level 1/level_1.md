@@ -3,7 +3,7 @@
 
 In level 1 you should know about basic arduino functions like setup loop etc 
 
-[![Watch the video](https://i.ibb.co/8PTbb06/ssss.png)](blob:https://www.loom.com/c7d75abd-519b-4ae7-8d81-d80e9f17a733)
+<video playsinline="" tabindex="-1" poster="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" crossorigin="anonymous" controlslist="nodownload" class="css-1qbueyq" data-loom-video-id="6b507414e148412e9c109df5dfa3d684" data-active="true" src="blob:https://www.loom.com/c7d75abd-519b-4ae7-8d81-d80e9f17a733"><p>Your user agent does not support the HTML5 Video element.</p></video>
 
 **Task Done**
 ### Here is the video 
