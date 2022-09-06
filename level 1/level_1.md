@@ -21,8 +21,10 @@ In level 1 you should know about basic arduino functions like setup loop etc
 
 ### ANAND S: Task-2-a:
 
+
 <video width="320" height="240" controls>
-  <source src="https://cdn.loom.com/sessions/thumbnails/6b507414e148412e9c109df5dfa3d684-00001.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/95957257/188688862-e90df232-c6fd-4146-aaea-3fef4f48e3ad.mp4" type="video/mp4">
 </video>
+
 
 
