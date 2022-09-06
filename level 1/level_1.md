@@ -2,7 +2,6 @@
 # Level 1
 
 In level 1 you should know about basic arduino functions like setup loop etc 
-## VIGHNESH GOPAN
 
 <video width="320" height="240" controls>
   <source src="https://cdn.loom.com/sessions/thumbnails/6b507414e148412e9c109df5dfa3d684-00001.mp4" type="video/mp4">
