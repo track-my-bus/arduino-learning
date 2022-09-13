@@ -24,11 +24,6 @@ https://user-images.githubusercontent.com/112874760/188895364-05d97295-f601-4af3
 
 
 https://user-images.githubusercontent.com/56481296/189056763-858bb975-1010-4583-99a6-7aa78148b7ff.mp4
-### ARCHA
-
-
-
-https://user-images.githubusercontent.com/85626302/189970258-e676d0ed-07d4-47c7-9995-be2370e0dad7.mp4
 
 
 
@@ -49,5 +44,9 @@ https://user-images.githubusercontent.com/85626302/189970258-e676d0ed-07d4-47c7-
 
 https://user-images.githubusercontent.com/85782854/189982076-1ae3c31b-1843-45a9-a88c-5ab9418d6c1e.mp4
 
+### JITHU KRISHNAN
+
+
+https://user-images.githubusercontent.com/49493432/189987306-63093129-13e9-4cc3-9ad3-f08b00589aed.mp4
 
 
