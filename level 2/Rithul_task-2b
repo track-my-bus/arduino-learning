@@ -1,0 +1,30 @@
+#include "pitches.h"
+
+#define SPEAKER_PIN 8
+const int buttonTones[] = {
+'NOTE_C5','NOTE_C5','NOTE_C5','NOTE_C5S','NOTE_C5','NOTE_A4S','NOTE_C5','NOTE_C5','NOTE_C5','NOTE_C5S','NOTE_C5','NOTE_A4S','NOTE_C5','NOTE_C5S','NOTE_D5S','NOTE_E5','NOTE_D5S','NOTE_C5S','NOTE_C5','NOTE_C5','NOTE_C5','NOTE_C5S','NOTE_C5','NOTE_A4S','NOTE_C5','NOTE_C5','NOTE_CS','NOTE_C5S','NOTE_C5','NOTE_A4S','NOTE_C5','NOTE_C5','NOTE_C5','NOTE_C5S','NOTE_C5','NOTE_A4S','NOTE_C5','NOTE_C5S','NOTE_D5S','NOTE_E5','NOTE_D5S','NOTE_C5S'
+};
+const int numTones = sizeof(buttonTones) / sizeof(buttonTones[0]);
+
+void setup() {
+  for (uint8_t i = 0; i < numTones; i++) {
+    pinMode(buttonTones[i], INPUT_PULLUP);
+  }
+  pinMode(SPEAKER_PIN, OUTPUT);
+ 
+}
+
+void loop() {
+  int pitch = 0;
+  for (uint8_t i = 0; i < numTones; i++) {
+   if (pitch) {
+    tone(SPEAKER_PIN, pitch);
+  } else {
+    noTone(SPEAKER_PIN);
+  } {
+      pitch = buttonTones[i];
+       delay(200);
+    }
+  }
+  
+}
